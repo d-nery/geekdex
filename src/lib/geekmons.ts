@@ -1725,20 +1725,6 @@ export const geekmons: Geekmon[] = [
     height: 2.1,
   },
   {
-    number: "118",
-    name: "Mugmancer",
-    description:
-      "Mugmancer atingiu a maestria total em manipulação de água. Agora, ele não apenas controla grandes volumes de água, mas pode moldá-la de formas complexas e devastadoras. Seja para criar barreiras impenetráveis, ataques precisos ou até para manipulações sutis no ambiente. Sua calma, foco e habilidade transformam qualquer combate em um espetáculo de técnicas aquáticas. Ele é leal e protetor, sempre pronto para defender seus aliados e acabar com seus oponentes com força devastadora.",
-    ref: "Um aventureiro com uma cabeça de xícara que enfrenta chefes desafiadores em um mundo dos anos 30.",
-    tags: [],
-    evolutions: [["116", "117", "118"]],
-    habitat: ["praia", "urbano"],
-    elements: ["místico", "água"],
-    weakness: "magnético",
-    weight: 80.0,
-    height: 2.1,
-  },
-  {
     number: "119",
     name: "Plumixie",
     description:
