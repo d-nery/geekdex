@@ -2248,7 +2248,7 @@ export const geekmons: Geekmon[] = [
     description:
       "Overbeast é o Crescimento Desenfreado de Ptoracto, representando a fúria descomunal do deserto em sua plenitude. Ele se torna um colosso bestial com escamas endurecidas e presas afiadas que parecem esculpidas diretamente das rochas do deserto. Sua presença aumenta as tempestades de areia ao extremo, criando redemoinhos e furacões que engolem qualquer um em seu caminho. Dizem que uma vez que Overbeast surge, não há abrigo seguro para os que ousarem pisar em seu domínio.",
     ref: "Uma criatura dos mitos medievais, muitas vezes confundida com um dragão.",
-    tags: [],
+    tags: ["over"],
     evolutions: [["073", "156"]],
     habitat: ["deserto"],
     elements: ["planta", "terra"],
