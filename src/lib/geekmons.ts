@@ -611,7 +611,7 @@ export const geekmons: Geekmon[] = [
   },
   {
     number: "040",
-    name: "Pumplet",
+    name: "Pumpking",
     description:
       'Pumpking é um governante espectral que se autodenomina o "Rei do Pesadelo". Ele é conhecido por sua capacidade de invocar criaturas fantasmagóricas para assustar as pessoas. Seu objetivo é transformar o mundo em um reino de sustos eternos, onde o Halloween nunca acaba. Entretanto, Pumpking possui um código de honra: ele admira aqueles que enfrentam seus medos de frente e muitas vezes poupa os mais corajosos de seus piores sustos, reservando suas maiores assombrações para aqueles que tentam fugir.',
     ref: "Um espírito que adora assustar os outros e quer transformar o Natal em um verdadeiro Halloween.",
